@@ -59,7 +59,7 @@ Var_Alias Time Out Following Reward (sec) = A(3)  \ Default = 0 seconds
 \  R() = Right Lever Response Array
 \
 \  S = Elapsed Time in Session
-
+ 
 
 \ List Working Variables Here
 \  C = Ratio Response Counter
